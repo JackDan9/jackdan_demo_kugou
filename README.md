@@ -1,3 +1,9 @@
+---
+title: graduation_project
+tags: AngularJS, JackDan, Graduation, Project
+author: jackdan9
+---
+
 # FOLLOW A KUGOU
 ----------------
 
